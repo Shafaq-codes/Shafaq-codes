@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Shafaq Irshad
-**A passionate Software Devloper || DevOps Engineer
+# Hey 👋, I'm Shafaq Irshad.
+A passionate Software Devloper || DevOps Engineer
 
 Email Me 👉 ✉️ **shafaqueries@gamil.com** For Collaboration/Project or Anything Else. 😊😊
 
