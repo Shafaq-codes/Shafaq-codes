@@ -1,7 +1,7 @@
 # Hey 👋, I'm Shafaq Irshad.
 A passionate Software Devloper || DevOps Engineer
 
-Email Me 👉 ✉️ **shafaqueries@gamil.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **shafaqueries@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **Building:** AI-powered and student-focused web apps
 - 🌱 **Learning:** AI/ML • DSA • React • Node.js
