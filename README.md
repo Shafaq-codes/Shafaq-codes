@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="./ascii.svg" width="460" alt="Shafaq Irshad"/>
+
+</div>
 # Hey 👋, I'm Shafaq Irshad.
 
 A passionate Software Devloper || DevOps Engineer
