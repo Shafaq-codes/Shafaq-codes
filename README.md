@@ -3,7 +3,7 @@
 <img src="./ascii.svg" width="460" alt="Shafaq Irshad"/>
 
 </div>
-# Hey 👋, I'm Shafaq Irshad.
+Hey 👋, I'm Shafaq Irshad.
 
 A passionate Software Devloper || DevOps Engineer
 
@@ -12,8 +12,8 @@ Email Me 👉 ✉️ **shafaqueries@gmail.com** For Collaboration/Project or Any
 - 🔭 **Building:** AI-powered and student-focused web apps
 - 🌱 **Learning:** AI/ML • DSA • React • Node.js
 - 👯 **Open to:** Hackathons, Open Source, and Startup Projects
-- 💬 **Ask me about:** C, Python, HTML, Git, GitHub, and Web Development
-- ⚡ **Fun fact:** Coffee + Code = My favorite combination ☕💻
+- 💬 **Ask me about:** C, Python, HTML, mongoDB, Git, GitHub, linux and Web Development
+- ⚡ **Fun fact:** Cold Coffee + Code = My favorite combination ☕💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafaqqqqq._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shafaqirshad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shafaq_presents) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shafaqueries@gmail.com) 
