@@ -2,7 +2,7 @@
 
 <img src="./ascii.svg" width="460" alt="Shafaq Irshad"/>
 
-# Hey there 👋, I'm Shafaq Irshad
+# Hey there, I'm Shafaq Irshad 👋
 ### 🚀 Software Developer • DevOps Enthusiast • Creative Technologist
 
 <p align="center">
@@ -23,6 +23,11 @@
 - 👯 **Collaborating:** Hackathons, Open Source projects, and tech ventures
 - 💬 **Ask me about:** Python, JavaScript, C/C++, Web Architecture, Linux & MongoDB
 - ⚡ **Fun Fact:** Cold Coffee + Clean Code = Peak Productivity ☕💻
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -102,14 +107,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafaq-codes&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
 
-</div>
-
----
-
-### ⚡ Contribution Flow
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
 </div>
 
 <div align="center">
