@@ -22,7 +22,6 @@
 - 🌱 **Exploring:** AI/ML • Advanced DSA • System Architecture • Cloud & DevOps
 - 👯 **Collaborating:** Hackathons, Open Source projects, and tech ventures
 - 💬 **Ask me about:** Python, C/C++, Web Architecture, Linux & MongoDB
-- ⚡ **Fun Fact:** Cold Coffee + Clean Code = Peak Productivity ☕💻
 
 ---
 
