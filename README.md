@@ -3,7 +3,7 @@
 <img src="./ascii.svg" width="460" alt="Shafaq Irshad"/>
 
 # Hey there, I'm Shafaq Irshad 👋
-### 🚀 Software Developer • DevOps Enthusiast • Creative Technologist
+### 🚀 Software Developer • AI & Web Explorer • Open Source Enthusiast
 
 <p align="center">
   <a href="https://linkedin.com/in/shafaqirshad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
