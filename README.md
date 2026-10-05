@@ -97,6 +97,4 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Shafaq-codes&color=0077b5&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
