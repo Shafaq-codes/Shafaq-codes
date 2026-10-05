@@ -2,7 +2,7 @@
 
 <img src="./ascii.svg" width="460" alt="Shafaq Irshad"/>
 
-# Hey there, I'm Shafaq Irshad 👋
+# Hey there 👋, I'm Shafaq Irshad
 ### 🚀 Software Developer • DevOps Enthusiast • Creative Technologist
 
 <p align="center">
