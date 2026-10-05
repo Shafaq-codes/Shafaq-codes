@@ -93,24 +93,9 @@
 </p>
 </details>
 
----
-
-### 📊 GitHub Activity & Metrics
+<br/>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafaq-codes&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=10" height="175" alt="Shafaq GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Shafaq-codes&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="Shafaq GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafaq-codes&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Shafaq-codes&color=0077b5&style=flat-square&label=Profile+Views" alt="Profile Views" />
