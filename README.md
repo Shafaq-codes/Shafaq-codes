@@ -104,12 +104,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shafaq-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ### ⚡ Contribution Flow
@@ -122,5 +116,5 @@
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Shafaq-codes&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shafaq-codes&color=0077b5&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
