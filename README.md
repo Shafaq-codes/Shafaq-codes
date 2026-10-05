@@ -24,11 +24,6 @@
 - 💬 **Ask me about:** Python, C/C++, Web Architecture, Linux & MongoDB
 - ⚡ **Fun Fact:** Cold Coffee + Clean Code = Peak Productivity ☕💻
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ### 🛠️ Tech Stack & Tooling
@@ -90,8 +85,12 @@
 </p>
 </details>
 
-<br/>
+---
+
+### ⚡ Contribution Flow
 
 <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
+  <br/><br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
